@@ -1,0 +1,38 @@
+.flex {
+	display: flex;
+}
+.blue {
+	color: #3D58A6;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 0;
+}
+.logo {
+	width: 100px;
+}
+.right-block {
+	width: 100%;
+}
+.navigation {
+	margin: auto;
+	font-size: 24px;
+}
+.navigation a {
+	text-decoration: none;
+	margin: auto 25px;
+	text-transform: uppercase;
+	font-family: "roboto"
+}
+.social {
+	font-size: 24px;
+}
+.line {
+	margin: auto 25px;
+}
+.search {
+	color: #EE4036;
+}
