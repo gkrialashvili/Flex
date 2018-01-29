@@ -41,6 +41,7 @@
 	color: #7E91C1;
 }
 /*header end*/
+/*news block*/
 .news-box {
 	background-color: #BDCCD4;
 	padding-top: 90px;
@@ -82,4 +83,37 @@ article img {
 	text-decoration: none;
 	font-size:18px;
 	color:white;
+}
+/*news block end*/
+/*video start*/
+.video-wrapper {
+	background-color: #363E97;
+	padding-top: 37px;
+	padding-bottom: 80px;
+}
+.video-text h1 {
+	font-size: 24px;
+	color: white;
+}
+.vid {
+	text-transform: uppercase;
+}
+.video-text a {
+	text-decoration: none;
+	color: white;
+}
+.video-text {
+	flex-direction: column;
+}
+.videos {
+	width: 100%;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.video {
+	width: 570px;
+	height: 320px;
+	background-color: white;
+	margin-top: 35px;
+
 }
